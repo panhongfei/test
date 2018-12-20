@@ -1,0 +1,1 @@
+/sbgenomics/Projects/745bc5a1-3bb8-46e7-9c08-efe3deb1f8f7/colon_WGS_51/1_reference/bwa_bacteria_reference.tar
